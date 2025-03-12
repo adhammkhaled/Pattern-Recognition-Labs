@@ -6,3 +6,5 @@ venv/
 .colab_kernel.log
 
 .vscode/
+
+Image Classification/train
